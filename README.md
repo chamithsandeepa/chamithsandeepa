@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<p> I am Chamith Sandeepa, a distinguished graduate of the esteemed University Of Kelaniya (UOK). Equipped with a robust set of information skills, I am an ambitious professional known for approaching tasks with a high degree of responsibility and a strategic mindset. Throughout my academic journey, I have demonstrated a keen aptitude for learning and a proactive approach to challenges.
+<p> I am Chamith Sandeepa, a undergraduate student of the University Of Kelaniya (UOK). Equipped with a robust set of information skills, I am an ambitious professional known for approaching tasks with a high degree of responsibility and a strategic mindset. Throughout my academic journey, I have demonstrated a keen aptitude for learning and a proactive approach to challenges.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamithsandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="chamithsandeepa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamithsandeepa" alt="chamithsandeepa" /></a> </p>
