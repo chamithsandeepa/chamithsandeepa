@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h2 align="center">A passionate FullStack developer from Sri Lanka</h2>
 <p> I am Chamith Sandeepa, a undergraduate student of the University Of Kelaniya (UOK). Equipped with a robust set of information skills, I am an ambitious professional known for approaching tasks with a high degree of responsibility and a strategic mindset. Throughout my academic journey, I have demonstrated a keen aptitude for learning and a proactive approach to challenges.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamithsandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="chamithsandeepa" /> </p>
 
