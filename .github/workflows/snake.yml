@@ -24,8 +24,8 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          # Replace with your GitHub username
+          github_user_name: chamithsandeepa
           # Enable workflow tracking (this includes CI/CD, PRs, etc.)
           workflows: true
           # Define the output files and their configurations
