@@ -32,6 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamithsandeepa&" alt="chamithsandeepa" /></p>
 
+## 🐍 GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake.svg" />
