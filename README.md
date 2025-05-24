@@ -1,3 +1,244 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Chamith%20Sandeepa&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=62" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🎓+University+of+Kelaniya+Student;💡+Problem+Solver+%26+Innovator;⚡+Always+Learning+New+Technologies;🌟+Building+Digital+Solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chamithsandeepa&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/chamithsandeepa?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/chamithsandeepa?label=Stars&style=for-the-badge&color=00d9ff" alt="GitHub Stars" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">🚀 About Me</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 💫 **Professional Summary**
+
+🌍 **Based in:** Sri Lanka 🇱🇰  
+🎓 **Education:** University of Kelaniya (UOK)  
+💼 **Role:** Full Stack Developer  
+❤️ **Passion:** Coding • Learning • Innovation  
+🎯 **Focus:** Building amazing web applications  
+✅ **Status:** Open to Work & Collaboration  
+
+---
+
+### 💻 **Core Technologies**
+```javascript
+const chamith = {
+    languages: ["JavaScript", "Python", "Java", "C#", "PHP"],
+    frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
+    backend: ["Node.js", "Django", "PHP"],
+    mobile: ["Flutter", "React Native"],
+    databases: ["MongoDB", "MySQL", "Oracle"],
+    tools: ["Git", "Firebase", "Kubernetes", "Arduino"],
+    currentFocus: "Building Digital Solutions",
+    motto: "Code. Create. Innovate. Repeat."
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=chamithsandeepa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">🛠️ Tech Arsenal</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=js,python,java,cs,php,c,dart,matlab&perline=4" />
+</td>
+<td align="center" width="33%">
+<h3>🌐 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,sass&perline=3" />
+</td>
+<td align="center" width="33%">
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,django,php,express,mongodb,mysql&perline=3" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>📱 Mobile</h3>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" />
+</td>
+<td align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=2" />
+</td>
+<td align="center">
+<h3>🔧 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,figma,photoshop&perline=3" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=chamithsandeepa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithsandeepa&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithsandeepa&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">🏆 Achievements</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamithsandeepa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">💼 Current Focus</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" height="60px" />
+<br><strong>React Development</strong>
+<br>Building modern UIs
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" height="60px" />
+<br><strong>Backend APIs</strong>
+<br>Creating robust servers
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60px" height="60px" />
+<br><strong>Mobile Apps</strong>
+<br>Cross-platform solutions
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60px" height="60px" />
+<br><strong>DevOps</strong>
+<br>Cloud & Containers
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### 🎯 **What I'm Up To**
+
+🎓 **Studying Computer Science at University of Kelaniya**  
+💻 **Building full-stack applications with modern technologies**  
+🌱 **Exploring cloud computing and microservices architecture**  
+👥 **Open to collaborate on innovative open-source projects**  
+💬 **Always happy to discuss tech, coding, and new ideas**  
+📧 **Let's connect:** [chamithsandeepa321@gmail.com](mailto:chamithsandeepa321@gmail.com)  
+⚡ **Motto:** *"Turning caffeine into code, one commit at a time!"* ☕
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">💭 Daily Inspiration</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">🐍 Contribution Snake</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake.svg" width="100%" />
+</picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2">
+</div>
+
+## <div align="center">🤝 Let's Connect</div>
+
+<div align="center">
+<a href="mailto:chamithsandeepa321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/chamithsandeepa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/chamithsandeepa">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/chamithsandeepa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Show+some+love+by+starring+repositories!+💫;Let's+build+something+amazing+together!+🚀" />
+</div>
+
+
+
+<!--
 <h2 align="center">A passionate FullStack developer from Sri Lanka</h2>
 <p> I am Chamith Sandeepa, a undergraduate student of the University Of Kelaniya (UOK). Equipped with a robust set of information skills, I am an ambitious professional known for approaching tasks with a high degree of responsibility and a strategic mindset. Throughout my academic journey, I have demonstrated a keen aptitude for learning and a proactive approach to challenges.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamithsandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="chamithsandeepa" /> </p>
@@ -31,10 +272,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamithsandeepa&show_icons=true&locale=en" alt="chamithsandeepa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamithsandeepa&" alt="chamithsandeepa" /></p>
+-->
 
-## 🐍 GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chamithsandeepa/chamithsandeepa/output/github-snake.svg" />
-</picture>
+
