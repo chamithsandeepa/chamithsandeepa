@@ -38,14 +38,12 @@
 ### 💻 **Core Technologies**
 ```javascript
 const chamith = {
-    languages: ["JavaScript", "Python", "Java", "C#", "PHP"],
-    frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-    backend: ["Node.js", "Django", "PHP"],
-    mobile: ["Flutter", "React Native"],
-    databases: ["MongoDB", "MySQL", "Oracle"],
-    tools: ["Git", "Firebase", "Kubernetes", "Arduino"],
+    languages: ["JavaScript", "Java", "HTML", "CSS"],
+    frontend: ["React", "HTML", "Tailwind CSS"],
+    backend: ["SpringBoot", "Node.js"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub"],
     currentFocus: "Building Digital Solutions",
-    motto: "Code. Create. Innovate. Repeat."
 };
 ```
 
@@ -88,10 +86,6 @@ const chamith = {
 </td>
 </tr>
 <tr>
-<td align="center">
-<h3>📱 Mobile</h3>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" />
-</td>
 <td align="center">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=2" />
@@ -178,7 +172,7 @@ const chamith = {
 🌱 **Exploring cloud computing and microservices architecture**  
 👥 **Open to collaborate on innovative open-source projects**  
 💬 **Always happy to discuss tech, coding, and new ideas**  
-📧 **Let's connect:** [chamithsandeepa321@gmail.com](mailto:chamithsandeepa321@gmail.com)  
+📧 **Let's connect:** [sandchamith@gmail.com](mailto:sandchamith@gmail.com)  
 ⚡ **Motto:** *"Turning caffeine into code, one commit at a time!"* ☕
 
 </div>
