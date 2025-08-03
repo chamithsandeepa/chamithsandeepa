@@ -42,7 +42,7 @@ const chamith = {
     frontend: ["React", "HTML", "Tailwind CSS"],
     backend: ["SpringBoot", "Node.js"],
     databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub"],
+    tools: ["Git", "VSCode"],
     currentFocus: "Building Digital Solutions",
 };
 ```
@@ -74,25 +74,25 @@ const chamith = {
 <tr>
 <td align="center" width="33%">
 <h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,php,c,dart,matlab&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css&perline=4" />
 </td>
 <td align="center" width="33%">
 <h3>🌐 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,sass&perline=3" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&perline=3" />
 </td>
 <td align="center" width="33%">
 <h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,django,php,express,mongodb,mysql&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring&perline=3" />
 </td>
 </tr>
 <tr>
 <td align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=2" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
 </td>
 <td align="center">
 <h3>🔧 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,figma,photoshop&perline=3" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma&perline=3" />
 </td>
 </tr>
 </table>
@@ -148,11 +148,6 @@ const chamith = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" height="60px" />
 <br><strong>Backend APIs</strong>
 <br>Creating robust servers
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60px" height="60px" />
-<br><strong>Mobile Apps</strong>
-<br>Cross-platform solutions
 </td>
 <td align="center" width="25%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60px" height="60px" />
