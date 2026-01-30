@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Chamith%20Sandeepa&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Chamith%20Sandeepa&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Cool%20Projects&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;Building+Scalable+Applications+%E2%9A%A1;Next.js+%26+TypeScript+Expert+%F0%9F%94%A5;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Learning+Modern+Web+Technologies+%F0%9F%92%BB;Building+Real-World+Applications+%E2%9A%A1;Exploring+React+%26+Node.js+%F0%9F%94%A5;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,21 +33,22 @@ const chamith = {
   location: "Sri Lanka 🇱🇰",
   education: "University of Kelaniya (UOK) 🎓",
   role: "Full Stack Developer 💼",
-  focus: "MERN Stack Development",
+  passion: "Building Web Applications",
   
   code: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express.js", "Spring Boot"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    styling: ["Tailwind CSS", "shadcn/ui"],
-    tools: ["Docker", "Git", "Postman", "Figma"]
+    frontend: ["React", "JavaScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "MySQL"],
+    styling: ["Tailwind CSS", "Bootstrap"],
+    tools: ["Git", "Postman", "VS Code", "Figma"]
   },
   
-  currentlyLearning: [
-    "Advanced Next.js Patterns",
-    "Microservices Architecture",
-    "Cloud Computing (AWS)",
-    "System Design"
+  currentlyExploring: [
+    "Next.js Framework",
+    "TypeScript",
+    "Advanced React Patterns",
+    "PostgreSQL",
+    "RESTful API Design"
   ],
   
   motto: "Clean Code, Better Solutions ✨"
@@ -56,10 +57,10 @@ const chamith = {
 
 ### 🎯 Current Focus
 
-- 🔭 Building production-ready full-stack applications
-- 🌱 Mastering **Next.js 15** and **TypeScript**
+- 🔭 Building full-stack web applications
+- 🌱 Learning **React ecosystem** and modern web development
 - 👯 Open to collaborate on **innovative projects**
-- 💬 Ask me about **MERN Stack, Next.js, TypeScript**
+- 💬 Ask me about **React, Node.js, MongoDB**
 - 📫 Reach me: **sandchamith@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!** ☕
 
@@ -94,7 +95,6 @@ const chamith = {
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -104,9 +104,8 @@ const chamith = {
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </p>
 
@@ -115,15 +114,14 @@ const chamith = {
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -132,11 +130,19 @@ const chamith = {
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+### 🌱 Currently Learning
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 </div>
